@@ -876,6 +876,14 @@ section {
   opacity: 1;
 }
 
+.glightbox-clean .gdesc-inner{
+  background-color: #e487c0;
+}
+.glightbox-clean .gslide-title{
+  font-family: 'Montserrat';
+  color: white;
+}
+
 /*--------------------------------------------------------------
 # Detalles del Portfolio
 --------------------------------------------------------------*/
